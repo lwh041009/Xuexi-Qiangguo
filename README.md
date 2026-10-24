@@ -8,7 +8,7 @@ Windows 桌面学习脚本与工具，支持扫码登录、文章阅读、视频
 
 ## 下载
 
-前往 [最新 Release](https://github.com/lwh041009/Xuexi-Qiangguo/releases/latest) 下载 `学习强国.exe`。同一 Release 提供源码 ZIP 和第三方组件声明包；使用 EXE 时请一并保留声明包。
+前往 [最新 Release](https://github.com/lwh041009/Xuexi-Qiangguo/releases/latest) 下载 `Xuexi-Qiangguo.exe`（本地发布名为 `学习强国.exe`）。同一 Release 提供源码 ZIP 和第三方组件声明包；使用 EXE 时请一并保留声明包。
 
 当前支持环境为 Windows 11 x64，需要 .NET Framework 4.8、Microsoft Edge WebView2 Runtime，以及系统 `winsqlite3.dll`。其他 Windows 版本未验收。EXE 未进行代码签名。
 

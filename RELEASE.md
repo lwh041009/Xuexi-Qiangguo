@@ -11,8 +11,8 @@ Windows x64 发布版，单个 EXE 1,145,856 字节。
 
 ## 下载文件
 
-- `学习强国.exe`：主程序，需系统 .NET Framework 4.8 与 WebView2 Runtime。
-- `学习强国-源码-2.11.2.zip`：当前源码、构建脚本、测试和组件声明。
+- `Xuexi-Qiangguo.exe`：主程序，需系统 .NET Framework 4.8 与 WebView2 Runtime；与本地 `学习强国.exe` 内容一致。
+- `Xuexi-Qiangguo-source-2.11.2.zip`：当前源码、构建脚本、测试和组件声明。
 - `WebView2-notices.zip`：随 EXE 分发的 Microsoft SDK LICENSE、NOTICE 和第三方说明，请一并保留。
 
 主程序 SHA-256：
