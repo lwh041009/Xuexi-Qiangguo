@@ -1,0 +1,32 @@
+{
+  "serverCreditConfirmation": "passed: delayed gain, no gain, missing task, reset and cancellation",
+  "exeSha256": "99D06FF731F0E9EB3BB38FF3ABC8FA1C7A3653AE596771C31E9612AAC9F9126C",
+  "realArticleScrollEvents": "passed: native trusted scroll events in transparent host",
+  "liveExamSubmissionAndScoringTested": false,
+  "examSubmissionValidation": "passed: zero total, base64, malformed totals and rejected response",
+  "liveLoginPersistenceTested": false,
+  "webView2OfflineBrowserTests": "passed",
+  "quietDailyExam": "passed: visually hidden throughout offline answering, native rendering retained, captcha/manual intervention window opens and returns to background",
+  "legacyHistoryPreserved": true,
+  "layouts": [
+    "620x470",
+    "580x440"
+  ],
+  "liveLoginAndScoringTested": false,
+  "specialQuizImplemented": false,
+  "adaptiveReading": "passed: first check at 60 seconds, 10-second rechecks, bounded no-credit stop",
+  "videoSelection": "passed: official text dates newest first, epoch formats normalized, account/day-scoped no-credit preference; live scoring unverified",
+  "timestamp": "2026-10-24T12:42:26.5935789+08:00",
+  "shortVideoSchedule": "passed: first credit check at 60 played seconds without ending playback, five-second rechecks, no-credit stop at 90, completed short video, no seek-to-end completion; live scoring unverified",
+  "compiledRulesAndSqliteTests": "passed during build",
+  "encryptedLoginPersistence": "passed: synthetic cookies across separate processes, DPAPI encryption, expiry/domain/security attributes and explicit logout; no real account used",
+  "autoDailyExam": "passed: five questions across single-choice, multiple-choice, text-fill and judgment; official-style 1-second auto-next, automatic final submission, one submission, offline WebView2",
+  "qrOnlyWindowTests": "passed",
+  "exeBytes": 1145856,
+  "browserVisible": false,
+  "scoreSummary": "passed: total and daily numeric fields, zero versus missing, summary layout at both window sizes; live endpoint unverified",
+  "ownerCenteredQrTests": "passed: open, move, resize, reopen",
+  "trayLifecycle": "passed: wired single-left-click event restores; right click waits for menu selection; show menu restores; close and minimize keep tasks; normal/maximized and QR repeated restore; explicit exit terminates test processes",
+  "nodeBrowserTests": "passed during build",
+  "nativeVideoPlayback": "passed: native media advancement, trusted page scroll and pause"
+}

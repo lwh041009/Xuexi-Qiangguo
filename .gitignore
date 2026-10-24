@@ -1,0 +1,27 @@
+# Only reviewed source and documentation belong in the public repository.
+/*
+!/.gitignore
+!/README.md
+!/RELEASE.md
+!/lite_app/
+/lite_app/*
+!/lite_app/*.cs
+!/lite_app/*.js
+!/lite_app/*.cjs
+!/lite_app/*.ps1
+!/lite_app/*.py
+!/lite_app/*.md
+!/lite_app/release-validation.json
+!/lite_app/assets/
+!/lite_app/licenses/
+
+# Never publish account or browser data.
+**/browser-profile/
+**/sessions/
+**/session-test-*/
+**/login-session.dat*
+**/*.sqlite3*
+**/*.har
+**/settings.json
+**/task-diagnostics.jsonl
+**/startup-error.log
